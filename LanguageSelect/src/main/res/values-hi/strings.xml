@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" >Test App</string>
+    <string name="selected_language">हिन्दी</string>
+    <string name="language">नमस्ते, जी यफ जी</string>
+    <string name="btn_home">होम</string>
+    <string name="btn_about">हमारे बारे में</string>
+    <string name="btn_profile">प्रोफ़ाइल</string>
+    <string name="select_language">भाषा का चयन करें</string>
+    <string name="select_theme">थीम चुनें</string>
+    <string name="day">दिन</string>
+    <string name="night">रात</string>
+
+    <string name="home_txt">हमारे घरों की कई आलोचकों और प्रकाशनों द्वारा समीक्षा की गई है। इस गर्मी में चल रहे गोवा में हमारे निजी विला देखें!</string>
+    <string name="about_txt">समझदार यात्रियों के लिए समकालीन, विलासितापूर्ण छुट्टियों को तैयार करने के लिए। लोहोनो हवाईयन शब्द "लोनो" से लिया गया है जिसमें विश्राम, संगीत और शांति के संबंध हैं। हमारे लिए इसका अर्थ सुखद जीवन के पलायन के सुखों की खोज करना है। हम भव्य घरों और सार्थक अनुभवों के माध्यम से विलासिता की छुट्टियों को गहरा अर्थ देते हैं।</string>
+    <string name="profile_txt">सही हॉलिडे होम में गंतव्य-विशिष्ट और ठाठ होने के बावजूद गर्म और स्वागत करने वाले सभी सही बक्से हैं। आपको हर घर में एक अनोखा आकर्षण मिलेगा चाहे वह पूल के पास एक आकर्षक गज़ेबो हो या एक सदियों पुराना बरगद का पेड़ जिसके नीचे चारपाई रखी हो। और यदि आप जश्न मनाने के मूड में हैं, तो हमारे कुशल द्वारपाल आपके प्रियजनों के लिए असाधारण रुचिकर और मनोरंजन के अनुभव प्रदान कर सकते हैं।</string>
+</resources>

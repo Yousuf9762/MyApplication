@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="selected_language">English</string>
+    <string name="language">Hi, GFG</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_about">About Us</string>
+    <string name="btn_profile">Profile</string>
+    <string name="select_language">Select Language</string>
+    <string name="select_theme">Select Theme</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+
+    <string name="home_txt">Our homes have been reviewed by a number of critics and publications. Check out our private villas in Goa trending this summer!</string>
+    <string name="about_txt">to craft contemporary, luxury vacations for discerning travellers. Lohono is derived from the Hawaiian word “lono” which has associations of relaxation, music and peace. To us it means discovering the pleasures of an idyllic escape. We give a deeper meaning to luxury vacations through opulent homes and meaningful experiences.</string>
+    <string name="profile_txt">of the perfect holiday home ticks all the right boxes of being destination-specific and chic yet warm and welcoming. You’ll find a unique highlight in every individual home whether it’s a tempting gazebo by the pool or an age-old banyan tree with a charpoy laid underneath. And if you are in the mood to celebrate, our skilled concierge can offer exceptional gourmet and entertainment experiences for your loved ones.</string>
+</resources>
